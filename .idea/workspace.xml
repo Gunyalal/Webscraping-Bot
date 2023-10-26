@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad7958f5-c216-4f0c-b9bd-a0614d9dd1fc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2F29S0gSVloiJkCA5sGhcK5Jfhw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CourseWork" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Programs\Python\Projects\CourseWork" />
+      <recent name="G:\Programs\Python\Projects\RUBot" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="Math" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RUBot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Math.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="NeuralNetwork" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RUBot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../CourseWork" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../CourseWork/NeuralNetwork.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RUBot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.Math" />
+        <item itemvalue="Python.NeuralNetwork" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad7958f5-c216-4f0c-b9bd-a0614d9dd1fc" name="Default Changelist" comment="" />
+      <created>1663679307408</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663679307408</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1579" height="149" key="GridCell.Tab.0.bottom" timestamp="1694679920755">
+      <screen x="0" y="0" width="1600" height="852" />
+    </state>
+    <state width="1579" height="149" key="GridCell.Tab.0.bottom/0.0.1600.852@0.0.1600.852" timestamp="1694679920755" />
+    <state width="1579" height="149" key="GridCell.Tab.0.center" timestamp="1694679920755">
+      <screen x="0" y="0" width="1600" height="852" />
+    </state>
+    <state width="1579" height="149" key="GridCell.Tab.0.center/0.0.1600.852@0.0.1600.852" timestamp="1694679920755" />
+    <state width="1579" height="149" key="GridCell.Tab.0.left" timestamp="1694679920755">
+      <screen x="0" y="0" width="1600" height="852" />
+    </state>
+    <state width="1579" height="149" key="GridCell.Tab.0.left/0.0.1600.852@0.0.1600.852" timestamp="1694679920755" />
+    <state width="1579" height="149" key="GridCell.Tab.0.right" timestamp="1694679920755">
+      <screen x="0" y="0" width="1600" height="852" />
+    </state>
+    <state width="1579" height="149" key="GridCell.Tab.0.right/0.0.1600.852@0.0.1600.852" timestamp="1694679920755" />
+    <state width="1579" height="272" key="GridCell.Tab.1.bottom" timestamp="1688550371501">
+      <screen x="0" y="0" width="1600" height="852" />
+    </state>
+    <state width="1579" height="272" key="GridCell.Tab.1.bottom/0.0.1600.852@0.0.1600.852" timestamp="1688550371501" />
+    <state width="1579" height="272" key="GridCell.Tab.1.center" timestamp="1688550371500">
+      <screen x="0" y="0" width="1600" height="852" />
+    </state>
+    <state width="1579" height="272" key="GridCell.Tab.1.center/0.0.1600.852@0.0.1600.852" timestamp="1688550371500" />
+    <state width="1579" height="272" key="GridCell.Tab.1.left" timestamp="1688550371500">
+      <screen x="0" y="0" width="1600" height="852" />
+    </state>
+    <state width="1579" height="272" key="GridCell.Tab.1.left/0.0.1600.852@0.0.1600.852" timestamp="1688550371500" />
+    <state width="1579" height="272" key="GridCell.Tab.1.right" timestamp="1688550371500">
+      <screen x="0" y="0" width="1600" height="852" />
+    </state>
+    <state width="1579" height="272" key="GridCell.Tab.1.right/0.0.1600.852@0.0.1600.852" timestamp="1688550371500" />
+    <state x="92" y="92" width="1416" height="668" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1688548494286">
+      <screen x="0" y="0" width="1600" height="852" />
+    </state>
+    <state x="92" y="92" width="1416" height="668" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1600.852@0.0.1600.852" timestamp="1688548494286" />
+    <state x="463" y="173" width="672" height="678" key="search.everywhere.popup" timestamp="1688549390654">
+      <screen x="0" y="0" width="1600" height="852" />
+    </state>
+    <state x="463" y="173" width="672" height="678" key="search.everywhere.popup/0.0.1600.852@0.0.1600.852" timestamp="1688549390654" />
+  </component>
+</project>

@@ -1,0 +1,2337 @@
+(['G:\\Programs\\Python\\Projects\\RUBot\\main.py'],
+ ['G:\\Programs\\Python\\Projects\\RUBot'],
+ ['codecs'],
+ ['C:\\Users\\Captain '
+  'G\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\numpy\\_pyinstaller',
+  'C:\\Users\\Captain '
+  'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\stdhooks',
+  'C:\\Users\\Captain '
+  'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\stdhooks\\__pycache__',
+  'C:\\Users\\Captain '
+  'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks',
+  'C:\\Users\\Captain '
+  'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks\\__pycache__',
+  'C:\\Users\\Captain '
+  'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks'],
+ {},
+ [],
+ [],
+ False,
+ False,
+ False,
+ {},
+ [],
+ [],
+ '3.9.12 (tags/v3.9.12:b28265d, Mar 23 2022, 23:52:46) [MSC v.1929 64 bit '
+ '(AMD64)]',
+ [('pyi_rth_pkgutil',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('main', 'G:\\Programs\\Python\\Projects\\RUBot\\main.py', 'PYSOURCE')],
+ [('multiprocessing.popen_forkserver',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\signal.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\selectors.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\gzip.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\argparse.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\shutil.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._common',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\_common.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\metadata.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\typing.py',
+   'PYMODULE'),
+  ('configparser',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\configparser.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\calendar.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\quopri.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\getopt.py',
+   'PYMODULE'),
+  ('uu',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\optparse.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\csv.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\lzma.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\bz2.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\copy.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\gettext.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_compression.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ssl.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\numbers.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\base64.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\hmac.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pprint.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('struct',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\struct.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\socket.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\bisect.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\queue.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('secrets',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\secrets.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('runpy',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\runpy.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\zipimport.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\inspect.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\opcode.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ast.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\netrc.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\shlex.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\datetime.py',
+   'PYMODULE'),
+  ('aioconsole',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aioconsole\\__init__.py',
+   'PYMODULE'),
+  ('aioconsole.apython',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aioconsole\\apython.py',
+   'PYMODULE'),
+  ('rlcompleter',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\rlcompleter.py',
+   'PYMODULE'),
+  ('aioconsole.rlwrap',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aioconsole\\rlwrap.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('aioconsole.command',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aioconsole\\command.py',
+   'PYMODULE'),
+  ('aioconsole.events',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aioconsole\\events.py',
+   'PYMODULE'),
+  ('aioconsole.server',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aioconsole\\server.py',
+   'PYMODULE'),
+  ('aioconsole.console',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aioconsole\\console.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\codeop.py',
+   'PYMODULE'),
+  ('__future__',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__future__.py',
+   'PYMODULE'),
+  ('pydoc',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\glob.py',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('socketserver',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('html',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('tty',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tty.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_aix_support.py',
+   'PYMODULE'),
+  ('_bootsubprocess',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_bootsubprocess.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\platform.py',
+   'PYMODULE'),
+  ('code',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\code.py',
+   'PYMODULE'),
+  ('aioconsole.stream',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aioconsole\\stream.py',
+   'PYMODULE'),
+  ('aioconsole.compat',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aioconsole\\compat.py',
+   'PYMODULE'),
+  ('aioconsole.execute',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aioconsole\\execute.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\random.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\statistics.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\fractions.py',
+   'PYMODULE'),
+  ('discord.ext.commands',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\ext\\commands\\__init__.py',
+   'PYMODULE'),
+  ('discord.ext.commands.hybrid',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\ext\\commands\\hybrid.py',
+   'PYMODULE'),
+  ('discord.app_commands.commands',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\app_commands\\commands.py',
+   'PYMODULE'),
+  ('discord.app_commands.namespace',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\app_commands\\namespace.py',
+   'PYMODULE'),
+  ('discord.types.interactions',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\types\\interactions.py',
+   'PYMODULE'),
+  ('discord.types',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\types\\__init__.py',
+   'PYMODULE'),
+  ('discord.types.widget',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\types\\widget.py',
+   'PYMODULE'),
+  ('discord.types.activity',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\types\\activity.py',
+   'PYMODULE'),
+  ('discord.types.template',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\types\\template.py',
+   'PYMODULE'),
+  ('discord.types.guild',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\types\\guild.py',
+   'PYMODULE'),
+  ('discord.types.emoji',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\types\\emoji.py',
+   'PYMODULE'),
+  ('discord.types.welcome_screen',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\types\\welcome_screen.py',
+   'PYMODULE'),
+  ('discord.types.voice',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\types\\voice.py',
+   'PYMODULE'),
+  ('discord.types.sticker',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\types\\sticker.py',
+   'PYMODULE'),
+  ('discord.types.scheduled_event',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\types\\scheduled_event.py',
+   'PYMODULE'),
+  ('discord.types.invite',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\types\\invite.py',
+   'PYMODULE'),
+  ('discord.types.automod',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\types\\automod.py',
+   'PYMODULE'),
+  ('discord.types.audit_log',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\types\\audit_log.py',
+   'PYMODULE'),
+  ('discord.types.command',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\types\\command.py',
+   'PYMODULE'),
+  ('discord.types.integration',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\types\\integration.py',
+   'PYMODULE'),
+  ('discord.types.webhook',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\types\\webhook.py',
+   'PYMODULE'),
+  ('discord.types.appinfo',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\types\\appinfo.py',
+   'PYMODULE'),
+  ('discord.types.team',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\types\\team.py',
+   'PYMODULE'),
+  ('discord.types.user',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\types\\user.py',
+   'PYMODULE'),
+  ('discord.types.snowflake',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\types\\snowflake.py',
+   'PYMODULE'),
+  ('discord.types.role',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\types\\role.py',
+   'PYMODULE'),
+  ('discord.types.message',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\types\\message.py',
+   'PYMODULE'),
+  ('discord.types.components',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\types\\components.py',
+   'PYMODULE'),
+  ('discord.types.embed',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\types\\embed.py',
+   'PYMODULE'),
+  ('discord.types.member',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\types\\member.py',
+   'PYMODULE'),
+  ('discord.types.threads',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\types\\threads.py',
+   'PYMODULE'),
+  ('discord.types.channel',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\types\\channel.py',
+   'PYMODULE'),
+  ('discord.channel',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\channel.py',
+   'PYMODULE'),
+  ('discord.ui.view',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\ui\\view.py',
+   'PYMODULE'),
+  ('discord.ui.select',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\ui\\select.py',
+   'PYMODULE'),
+  ('discord.emoji',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\emoji.py',
+   'PYMODULE'),
+  ('discord.partial_emoji',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\partial_emoji.py',
+   'PYMODULE'),
+  ('discord.ui.button',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\ui\\button.py',
+   'PYMODULE'),
+  ('discord.ui.modal',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\ui\\modal.py',
+   'PYMODULE'),
+  ('discord.components',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\components.py',
+   'PYMODULE'),
+  ('discord.ui.item',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\ui\\item.py',
+   'PYMODULE'),
+  ('discord.ui',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\ui\\__init__.py',
+   'PYMODULE'),
+  ('discord.ui.text_input',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\ui\\text_input.py',
+   'PYMODULE'),
+  ('discord.guild',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\guild.py',
+   'PYMODULE'),
+  ('discord.voice_client',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\voice_client.py',
+   'PYMODULE'),
+  ('discord.client',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\client.py',
+   'PYMODULE'),
+  ('discord.appinfo',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\appinfo.py',
+   'PYMODULE'),
+  ('discord.team',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\team.py',
+   'PYMODULE'),
+  ('discord.activity',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\activity.py',
+   'PYMODULE'),
+  ('aiohttp',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aiohttp\\__init__.py',
+   'PYMODULE'),
+  ('aiohttp.worker',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aiohttp\\worker.py',
+   'PYMODULE'),
+  ('aiohttp.web_log',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aiohttp\\web_log.py',
+   'PYMODULE'),
+  ('aiohttp.web_response',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aiohttp\\web_response.py',
+   'PYMODULE'),
+  ('aiohttp.typedefs',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aiohttp\\typedefs.py',
+   'PYMODULE'),
+  ('yarl',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\yarl\\__init__.py',
+   'PYMODULE'),
+  ('yarl._url',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\yarl\\_url.py',
+   'PYMODULE'),
+  ('yarl._quoting',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\yarl\\_quoting.py',
+   'PYMODULE'),
+  ('yarl._quoting_py',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\yarl\\_quoting_py.py',
+   'PYMODULE'),
+  ('idna',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\idna\\__init__.py',
+   'PYMODULE'),
+  ('idna.core',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\idna\\core.py',
+   'PYMODULE'),
+  ('idna.uts46data',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\idna\\uts46data.py',
+   'PYMODULE'),
+  ('idna.intranges',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\idna\\intranges.py',
+   'PYMODULE'),
+  ('idna.idnadata',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\idna\\idnadata.py',
+   'PYMODULE'),
+  ('idna.package_data',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\idna\\package_data.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ipaddress.py',
+   'PYMODULE'),
+  ('multidict',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\multidict\\__init__.py',
+   'PYMODULE'),
+  ('multidict._multidict_py',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\multidict\\_multidict_py.py',
+   'PYMODULE'),
+  ('multidict._compat',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\multidict\\_compat.py',
+   'PYMODULE'),
+  ('multidict._abc',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\multidict\\_abc.py',
+   'PYMODULE'),
+  ('http.cookies',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\http\\cookies.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('aiohttp.web_request',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aiohttp\\web_request.py',
+   'PYMODULE'),
+  ('aiohttp.web_urldispatcher',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aiohttp\\web_urldispatcher.py',
+   'PYMODULE'),
+  ('aiohttp.web_routedef',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aiohttp\\web_routedef.py',
+   'PYMODULE'),
+  ('aiohttp.web_fileresponse',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aiohttp\\web_fileresponse.py',
+   'PYMODULE'),
+  ('aiohttp.web_protocol',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aiohttp\\web_protocol.py',
+   'PYMODULE'),
+  ('aiohttp.web_server',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aiohttp\\web_server.py',
+   'PYMODULE'),
+  ('aiohttp.tcp_helpers',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aiohttp\\tcp_helpers.py',
+   'PYMODULE'),
+  ('aiohttp.log',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aiohttp\\log.py',
+   'PYMODULE'),
+  ('aiohttp.base_protocol',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aiohttp\\base_protocol.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('aiohttp.web_exceptions',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aiohttp\\web_exceptions.py',
+   'PYMODULE'),
+  ('aiohttp.http_writer',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aiohttp\\http_writer.py',
+   'PYMODULE'),
+  ('aiohttp.http_parser',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aiohttp\\http_parser.py',
+   'PYMODULE'),
+  ('aiohttp.http_exceptions',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aiohttp\\http_exceptions.py',
+   'PYMODULE'),
+  ('attr',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\attr\\__init__.py',
+   'PYMODULE'),
+  ('attr._next_gen',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\attr\\_next_gen.py',
+   'PYMODULE'),
+  ('attr._version_info',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\attr\\_version_info.py',
+   'PYMODULE'),
+  ('attr._make',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\attr\\_make.py',
+   'PYMODULE'),
+  ('attr._compat',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\attr\\_compat.py',
+   'PYMODULE'),
+  ('attr._funcs',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\attr\\_funcs.py',
+   'PYMODULE'),
+  ('attr._cmp',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\attr\\_cmp.py',
+   'PYMODULE'),
+  ('attr.validators',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\attr\\validators.py',
+   'PYMODULE'),
+  ('attr.filters',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\attr\\filters.py',
+   'PYMODULE'),
+  ('attr.exceptions',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\attr\\exceptions.py',
+   'PYMODULE'),
+  ('attr.converters',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\attr\\converters.py',
+   'PYMODULE'),
+  ('attr.setters',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\attr\\setters.py',
+   'PYMODULE'),
+  ('attr._config',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\attr\\_config.py',
+   'PYMODULE'),
+  ('aiohttp.abc',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aiohttp\\abc.py',
+   'PYMODULE'),
+  ('aiohttp.web_app',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aiohttp\\web_app.py',
+   'PYMODULE'),
+  ('aiohttp.web_middlewares',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aiohttp\\web_middlewares.py',
+   'PYMODULE'),
+  ('frozenlist',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\frozenlist\\__init__.py',
+   'PYMODULE'),
+  ('aiosignal',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aiosignal\\__init__.py',
+   'PYMODULE'),
+  ('aiohttp.web',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aiohttp\\web.py',
+   'PYMODULE'),
+  ('aiohttp.web_ws',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aiohttp\\web_ws.py',
+   'PYMODULE'),
+  ('async_timeout',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\async_timeout\\__init__.py',
+   'PYMODULE'),
+  ('aiohttp.web_runner',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aiohttp\\web_runner.py',
+   'PYMODULE'),
+  ('aiohttp.tracing',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aiohttp\\tracing.py',
+   'PYMODULE'),
+  ('aiohttp.client_reqrep',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aiohttp\\client_reqrep.py',
+   'PYMODULE'),
+  ('aiohttp.connector',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aiohttp\\connector.py',
+   'PYMODULE'),
+  ('aiohttp.locks',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aiohttp\\locks.py',
+   'PYMODULE'),
+  ('aiohttp.client_proto',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aiohttp\\client_proto.py',
+   'PYMODULE'),
+  ('charset_normalizer',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\charset_normalizer\\__init__.py',
+   'PYMODULE'),
+  ('charset_normalizer.version',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\charset_normalizer\\version.py',
+   'PYMODULE'),
+  ('charset_normalizer.utils',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\charset_normalizer\\utils.py',
+   'PYMODULE'),
+  ('charset_normalizer.constant',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\charset_normalizer\\constant.py',
+   'PYMODULE'),
+  ('charset_normalizer.assets',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\charset_normalizer\\assets\\__init__.py',
+   'PYMODULE'),
+  ('charset_normalizer.models',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\charset_normalizer\\models.py',
+   'PYMODULE'),
+  ('charset_normalizer.cd',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\charset_normalizer\\cd.py',
+   'PYMODULE'),
+  ('charset_normalizer.md',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\charset_normalizer\\md.py',
+   'PYMODULE'),
+  ('charset_normalizer.legacy',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\charset_normalizer\\legacy.py',
+   'PYMODULE'),
+  ('charset_normalizer.api',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\charset_normalizer\\api.py',
+   'PYMODULE'),
+  ('aiohttp.client_exceptions',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aiohttp\\client_exceptions.py',
+   'PYMODULE'),
+  ('aiohttp.streams',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aiohttp\\streams.py',
+   'PYMODULE'),
+  ('aiohttp.resolver',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aiohttp\\resolver.py',
+   'PYMODULE'),
+  ('aiohttp.payload_streamer',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aiohttp\\payload_streamer.py',
+   'PYMODULE'),
+  ('aiohttp.payload',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aiohttp\\payload.py',
+   'PYMODULE'),
+  ('aiohttp.helpers',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aiohttp\\helpers.py',
+   'PYMODULE'),
+  ('cgi',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\cgi.py',
+   'PYMODULE'),
+  ('aiohttp.formdata',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aiohttp\\formdata.py',
+   'PYMODULE'),
+  ('aiohttp.cookiejar',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aiohttp\\cookiejar.py',
+   'PYMODULE'),
+  ('aiohttp.client',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aiohttp\\client.py',
+   'PYMODULE'),
+  ('aiohttp.http_websocket',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aiohttp\\http_websocket.py',
+   'PYMODULE'),
+  ('aiohttp.client_ws',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aiohttp\\client_ws.py',
+   'PYMODULE'),
+  ('aiohttp.http',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aiohttp\\http.py',
+   'PYMODULE'),
+  ('aiohttp.multipart',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aiohttp\\multipart.py',
+   'PYMODULE'),
+  ('uuid',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\uuid.py',
+   'PYMODULE'),
+  ('aiohttp.hdrs',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aiohttp\\hdrs.py',
+   'PYMODULE'),
+  ('discord.player',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\player.py',
+   'PYMODULE'),
+  ('discord.oggparse',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\oggparse.py',
+   'PYMODULE'),
+  ('discord.gateway',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\gateway.py',
+   'PYMODULE'),
+  ('discord.backoff',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\backoff.py',
+   'PYMODULE'),
+  ('discord.opus',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\opus.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('discord.template',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\template.py',
+   'PYMODULE'),
+  ('discord.automod',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\automod.py',
+   'PYMODULE'),
+  ('discord.welcome_screen',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\welcome_screen.py',
+   'PYMODULE'),
+  ('discord.audit_logs',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\audit_logs.py',
+   'PYMODULE'),
+  ('discord.integrations',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\integrations.py',
+   'PYMODULE'),
+  ('discord.flags',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\flags.py',
+   'PYMODULE'),
+  ('discord.widget',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\widget.py',
+   'PYMODULE'),
+  ('discord.invite',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\invite.py',
+   'PYMODULE'),
+  ('discord.colour',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\colour.py',
+   'PYMODULE'),
+  ('colorsys',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\colorsys.py',
+   'PYMODULE'),
+  ('discord.file',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\file.py',
+   'PYMODULE'),
+  ('discord.sticker',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\sticker.py',
+   'PYMODULE'),
+  ('discord.state',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\state.py',
+   'PYMODULE'),
+  ('discord.types.gateway',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\types\\gateway.py',
+   'PYMODULE'),
+  ('discord.raw_models',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\raw_models.py',
+   'PYMODULE'),
+  ('discord.webhook',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\webhook\\__init__.py',
+   'PYMODULE'),
+  ('discord.webhook.sync',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\webhook\\sync.py',
+   'PYMODULE'),
+  ('discord.webhook.async_',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\webhook\\async_.py',
+   'PYMODULE'),
+  ('discord.mentions',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\mentions.py',
+   'PYMODULE'),
+  ('discord.embeds',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\embeds.py',
+   'PYMODULE'),
+  ('discord.http',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\http.py',
+   'PYMODULE'),
+  ('discord.threads',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\threads.py',
+   'PYMODULE'),
+  ('discord.stage_instance',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\stage_instance.py',
+   'PYMODULE'),
+  ('discord.errors',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\errors.py',
+   'PYMODULE'),
+  ('discord.asset',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\asset.py',
+   'PYMODULE'),
+  ('discord.mixins',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\mixins.py',
+   'PYMODULE'),
+  ('discord.scheduled_event',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\scheduled_event.py',
+   'PYMODULE'),
+  ('discord.role',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\role.py',
+   'PYMODULE'),
+  ('discord.object',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\object.py',
+   'PYMODULE'),
+  ('discord.abc',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\abc.py',
+   'PYMODULE'),
+  ('discord.context_managers',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\context_managers.py',
+   'PYMODULE'),
+  ('discord.interactions',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\interactions.py',
+   'PYMODULE'),
+  ('discord.permissions',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\permissions.py',
+   'PYMODULE'),
+  ('discord.member',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\member.py',
+   'PYMODULE'),
+  ('discord.user',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\user.py',
+   'PYMODULE'),
+  ('discord.message',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\message.py',
+   'PYMODULE'),
+  ('discord.reaction',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\reaction.py',
+   'PYMODULE'),
+  ('discord.app_commands.translator',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\app_commands\\translator.py',
+   'PYMODULE'),
+  ('discord.app_commands.errors',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\app_commands\\errors.py',
+   'PYMODULE'),
+  ('discord.app_commands.checks',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\app_commands\\checks.py',
+   'PYMODULE'),
+  ('discord.app_commands.transformers',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\app_commands\\transformers.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\dataclasses.py',
+   'PYMODULE'),
+  ('discord.app_commands.models',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\app_commands\\models.py',
+   'PYMODULE'),
+  ('discord.enums',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\enums.py',
+   'PYMODULE'),
+  ('discord.ext.commands._types',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\ext\\commands\\_types.py',
+   'PYMODULE'),
+  ('typing_extensions',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\typing_extensions.py',
+   'PYMODULE'),
+  ('discord.ext.commands.view',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\ext\\commands\\view.py',
+   'PYMODULE'),
+  ('discord.utils',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\utils.py',
+   'PYMODULE'),
+  ('discord.app_commands',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\app_commands\\__init__.py',
+   'PYMODULE'),
+  ('discord.app_commands.tree',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\app_commands\\tree.py',
+   'PYMODULE'),
+  ('discord.ext.commands.parameters',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\ext\\commands\\parameters.py',
+   'PYMODULE'),
+  ('discord.ext.commands.help',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\ext\\commands\\help.py',
+   'PYMODULE'),
+  ('discord.ext.commands.flags',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\ext\\commands\\flags.py',
+   'PYMODULE'),
+  ('discord.ext.commands.errors',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\ext\\commands\\errors.py',
+   'PYMODULE'),
+  ('discord.ext.commands.core',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\ext\\commands\\core.py',
+   'PYMODULE'),
+  ('discord.ext.commands.cooldowns',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\ext\\commands\\cooldowns.py',
+   'PYMODULE'),
+  ('discord.ext.commands.converter',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\ext\\commands\\converter.py',
+   'PYMODULE'),
+  ('discord.ext.commands.context',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\ext\\commands\\context.py',
+   'PYMODULE'),
+  ('discord.ext.commands.cog',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\ext\\commands\\cog.py',
+   'PYMODULE'),
+  ('discord.ext.commands.bot',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\ext\\commands\\bot.py',
+   'PYMODULE'),
+  ('discord.ext', '-', 'PYMODULE'),
+  ('asyncio',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('bs4',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\bs4\\__init__.py',
+   'PYMODULE'),
+  ('bs4.element',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\bs4\\element.py',
+   'PYMODULE'),
+  ('bs4.formatter',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\bs4\\formatter.py',
+   'PYMODULE'),
+  ('soupsieve',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\soupsieve\\__init__.py',
+   'PYMODULE'),
+  ('soupsieve.css_parser',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\soupsieve\\css_parser.py',
+   'PYMODULE'),
+  ('soupsieve.css_match',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\soupsieve\\css_match.py',
+   'PYMODULE'),
+  ('soupsieve.css_types',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\soupsieve\\css_types.py',
+   'PYMODULE'),
+  ('soupsieve.pretty',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\soupsieve\\pretty.py',
+   'PYMODULE'),
+  ('soupsieve.util',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\soupsieve\\util.py',
+   'PYMODULE'),
+  ('soupsieve.__meta__',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\soupsieve\\__meta__.py',
+   'PYMODULE'),
+  ('bs4.dammit',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\bs4\\dammit.py',
+   'PYMODULE'),
+  ('chardet',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\chardet\\__init__.py',
+   'PYMODULE'),
+  ('chardet.version',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\chardet\\version.py',
+   'PYMODULE'),
+  ('chardet.universaldetector',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\chardet\\universaldetector.py',
+   'PYMODULE'),
+  ('chardet.sbcsgroupprober',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\chardet\\sbcsgroupprober.py',
+   'PYMODULE'),
+  ('chardet.langturkishmodel',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\chardet\\langturkishmodel.py',
+   'PYMODULE'),
+  ('chardet.hebrewprober',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\chardet\\hebrewprober.py',
+   'PYMODULE'),
+  ('chardet.charsetprober',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\chardet\\charsetprober.py',
+   'PYMODULE'),
+  ('chardet.langhebrewmodel',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\chardet\\langhebrewmodel.py',
+   'PYMODULE'),
+  ('chardet.langthaimodel',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\chardet\\langthaimodel.py',
+   'PYMODULE'),
+  ('chardet.langbulgarianmodel',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\chardet\\langbulgarianmodel.py',
+   'PYMODULE'),
+  ('chardet.langgreekmodel',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\chardet\\langgreekmodel.py',
+   'PYMODULE'),
+  ('chardet.langcyrillicmodel',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\chardet\\langcyrillicmodel.py',
+   'PYMODULE'),
+  ('chardet.sbcharsetprober',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\chardet\\sbcharsetprober.py',
+   'PYMODULE'),
+  ('chardet.mbcsgroupprober',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\chardet\\mbcsgroupprober.py',
+   'PYMODULE'),
+  ('chardet.euctwprober',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\chardet\\euctwprober.py',
+   'PYMODULE'),
+  ('chardet.mbcssm',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\chardet\\mbcssm.py',
+   'PYMODULE'),
+  ('chardet.chardistribution',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\chardet\\chardistribution.py',
+   'PYMODULE'),
+  ('chardet.jisfreq',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\chardet\\jisfreq.py',
+   'PYMODULE'),
+  ('chardet.big5freq',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\chardet\\big5freq.py',
+   'PYMODULE'),
+  ('chardet.gb2312freq',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\chardet\\gb2312freq.py',
+   'PYMODULE'),
+  ('chardet.euckrfreq',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\chardet\\euckrfreq.py',
+   'PYMODULE'),
+  ('chardet.euctwfreq',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\chardet\\euctwfreq.py',
+   'PYMODULE'),
+  ('chardet.codingstatemachine',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\chardet\\codingstatemachine.py',
+   'PYMODULE'),
+  ('chardet.mbcharsetprober',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\chardet\\mbcharsetprober.py',
+   'PYMODULE'),
+  ('chardet.big5prober',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\chardet\\big5prober.py',
+   'PYMODULE'),
+  ('chardet.cp949prober',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\chardet\\cp949prober.py',
+   'PYMODULE'),
+  ('chardet.euckrprober',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\chardet\\euckrprober.py',
+   'PYMODULE'),
+  ('chardet.gb2312prober',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\chardet\\gb2312prober.py',
+   'PYMODULE'),
+  ('chardet.eucjpprober',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\chardet\\eucjpprober.py',
+   'PYMODULE'),
+  ('chardet.jpcntx',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\chardet\\jpcntx.py',
+   'PYMODULE'),
+  ('chardet.sjisprober',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\chardet\\sjisprober.py',
+   'PYMODULE'),
+  ('chardet.utf8prober',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\chardet\\utf8prober.py',
+   'PYMODULE'),
+  ('chardet.latin1prober',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\chardet\\latin1prober.py',
+   'PYMODULE'),
+  ('chardet.escprober',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\chardet\\escprober.py',
+   'PYMODULE'),
+  ('chardet.escsm',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\chardet\\escsm.py',
+   'PYMODULE'),
+  ('chardet.enums',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\chardet\\enums.py',
+   'PYMODULE'),
+  ('chardet.charsetgroupprober',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\chardet\\charsetgroupprober.py',
+   'PYMODULE'),
+  ('chardet.compat',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\chardet\\compat.py',
+   'PYMODULE'),
+  ('bs4.builder',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\bs4\\builder\\__init__.py',
+   'PYMODULE'),
+  ('bs4.builder._lxml',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\bs4\\builder\\_lxml.py',
+   'PYMODULE'),
+  ('bs4.builder._html5lib',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\bs4\\builder\\_html5lib.py',
+   'PYMODULE'),
+  ('bs4.builder._htmlparser',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\bs4\\builder\\_htmlparser.py',
+   'PYMODULE'),
+  ('html.parser',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\html\\parser.py',
+   'PYMODULE'),
+  ('_markupbase',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_markupbase.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\string.py',
+   'PYMODULE'),
+  ('requests',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\requests\\__init__.py',
+   'PYMODULE'),
+  ('requests.status_codes',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\requests\\status_codes.py',
+   'PYMODULE'),
+  ('requests.structures',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\requests\\structures.py',
+   'PYMODULE'),
+  ('requests.compat',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\requests\\compat.py',
+   'PYMODULE'),
+  ('requests.models',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\requests\\models.py',
+   'PYMODULE'),
+  ('requests.hooks',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\requests\\hooks.py',
+   'PYMODULE'),
+  ('requests.cookies',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\requests\\cookies.py',
+   'PYMODULE'),
+  ('requests.auth',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\requests\\auth.py',
+   'PYMODULE'),
+  ('requests._internal_utils',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\requests\\_internal_utils.py',
+   'PYMODULE'),
+  ('urllib3.util',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\util\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.util.wait',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\util\\wait.py',
+   'PYMODULE'),
+  ('urllib3.util.url',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\util\\url.py',
+   'PYMODULE'),
+  ('urllib3.packages.six',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\packages\\six.py',
+   'PYMODULE'),
+  ('urllib3.packages',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\packages\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.util.timeout',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\util\\timeout.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\util\\ssl_.py',
+   'PYMODULE'),
+  ('urllib3.util.ssltransport',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\util\\ssltransport.py',
+   'PYMODULE'),
+  ('urllib3.util.retry',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\util\\retry.py',
+   'PYMODULE'),
+  ('urllib3.util.response',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\util\\response.py',
+   'PYMODULE'),
+  ('urllib3.util.request',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\util\\request.py',
+   'PYMODULE'),
+  ('urllib3.util.connection',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\util\\connection.py',
+   'PYMODULE'),
+  ('urllib3.contrib._appengine_environ',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\contrib\\_appengine_environ.py',
+   'PYMODULE'),
+  ('urllib3.filepost',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\filepost.py',
+   'PYMODULE'),
+  ('urllib3.fields',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\fields.py',
+   'PYMODULE'),
+  ('requests.api',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\requests\\api.py',
+   'PYMODULE'),
+  ('requests.sessions',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\requests\\sessions.py',
+   'PYMODULE'),
+  ('requests.adapters',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\requests\\adapters.py',
+   'PYMODULE'),
+  ('urllib3.contrib.socks',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\contrib\\socks.py',
+   'PYMODULE'),
+  ('urllib3.connectionpool',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\connectionpool.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_match_hostname',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\util\\ssl_match_hostname.py',
+   'PYMODULE'),
+  ('urllib3.util.queue',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\util\\queue.py',
+   'PYMODULE'),
+  ('urllib3.util.proxy',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\util\\proxy.py',
+   'PYMODULE'),
+  ('urllib3.request',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\request.py',
+   'PYMODULE'),
+  ('urllib3.connection',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\connection.py',
+   'PYMODULE'),
+  ('urllib3._version',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\_version.py',
+   'PYMODULE'),
+  ('urllib3._collections',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\_collections.py',
+   'PYMODULE'),
+  ('urllib3.response',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\response.py',
+   'PYMODULE'),
+  ('urllib3.poolmanager',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\poolmanager.py',
+   'PYMODULE'),
+  ('requests.__version__',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\requests\\__version__.py',
+   'PYMODULE'),
+  ('requests.utils',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\requests\\utils.py',
+   'PYMODULE'),
+  ('requests.certs',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\requests\\certs.py',
+   'PYMODULE'),
+  ('certifi',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\certifi\\__init__.py',
+   'PYMODULE'),
+  ('certifi.core',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\certifi\\core.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\resources.py',
+   'PYMODULE'),
+  ('requests.packages',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\requests\\packages.py',
+   'PYMODULE'),
+  ('urllib3.exceptions',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\exceptions.py',
+   'PYMODULE'),
+  ('urllib3.contrib.pyopenssl',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\contrib\\pyopenssl.py',
+   'PYMODULE'),
+  ('urllib3.packages.backports.makefile',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\packages\\backports\\makefile.py',
+   'PYMODULE'),
+  ('urllib3.packages.backports',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\packages\\backports\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.contrib',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\contrib\\__init__.py',
+   'PYMODULE'),
+  ('requests.exceptions',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\requests\\exceptions.py',
+   'PYMODULE'),
+  ('urllib3',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\urllib3\\__init__.py',
+   'PYMODULE'),
+  ('discord',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\__init__.py',
+   'PYMODULE'),
+  ('discord.shard',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\discord\\shard.py',
+   'PYMODULE')],
+ [('api-ms-win-crt-runtime-l1-1-0.dll',
+   'G:\\Programs\\ToGit\\bin\\api-ms-win-crt-runtime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-locale-l1-1-0.dll',
+   'G:\\Programs\\ToGit\\bin\\api-ms-win-crt-locale-l1-1-0.dll',
+   'BINARY'),
+  ('python39.dll',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\python39.dll',
+   'BINARY'),
+  ('api-ms-win-crt-math-l1-1-0.dll',
+   'G:\\Programs\\ToGit\\bin\\api-ms-win-crt-math-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-heap-l1-1-0.dll',
+   'G:\\Programs\\ToGit\\bin\\api-ms-win-crt-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-stdio-l1-1-0.dll',
+   'G:\\Programs\\ToGit\\bin\\api-ms-win-crt-stdio-l1-1-0.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('ucrtbase.dll', 'G:\\Programs\\ToGit\\bin\\ucrtbase.dll', 'BINARY'),
+  ('api-ms-win-crt-process-l1-1-0.dll',
+   'G:\\Programs\\ToGit\\bin\\api-ms-win-crt-process-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-convert-l1-1-0.dll',
+   'G:\\Programs\\ToGit\\bin\\api-ms-win-crt-convert-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-filesystem-l1-1-0.dll',
+   'G:\\Programs\\ToGit\\bin\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-time-l1-1-0.dll',
+   'G:\\Programs\\ToGit\\bin\\api-ms-win-crt-time-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-conio-l1-1-0.dll',
+   'G:\\Programs\\ToGit\\bin\\api-ms-win-crt-conio-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-environment-l1-1-0.dll',
+   'G:\\Programs\\ToGit\\bin\\api-ms-win-crt-environment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-string-l1-1-0.dll',
+   'G:\\Programs\\ToGit\\bin\\api-ms-win-crt-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-heap-l1-1-0.dll',
+   'G:\\Programs\\ToGit\\bin\\api-ms-win-core-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-datetime-l1-1-0.dll',
+   'G:\\Programs\\ToGit\\bin\\api-ms-win-core-datetime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-timezone-l1-1-0.dll',
+   'G:\\Programs\\ToGit\\bin\\api-ms-win-core-timezone-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-1-0.dll',
+   'G:\\Programs\\ToGit\\bin\\api-ms-win-core-synch-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-profile-l1-1-0.dll',
+   'G:\\Programs\\ToGit\\bin\\api-ms-win-core-profile-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-errorhandling-l1-1-0.dll',
+   'G:\\Programs\\ToGit\\bin\\api-ms-win-core-errorhandling-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-util-l1-1-0.dll',
+   'G:\\Programs\\ToGit\\bin\\api-ms-win-core-util-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-0.dll',
+   'G:\\Programs\\ToGit\\bin\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-1-0.dll',
+   'G:\\Programs\\ToGit\\bin\\api-ms-win-core-file-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-string-l1-1-0.dll',
+   'G:\\Programs\\ToGit\\bin\\api-ms-win-core-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-debug-l1-1-0.dll',
+   'G:\\Programs\\ToGit\\bin\\api-ms-win-core-debug-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-libraryloader-l1-1-0.dll',
+   'G:\\Programs\\ToGit\\bin\\api-ms-win-core-libraryloader-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-2-0.dll',
+   'G:\\Programs\\ToGit\\bin\\api-ms-win-core-synch-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-namedpipe-l1-1-0.dll',
+   'G:\\Programs\\ToGit\\bin\\api-ms-win-core-namedpipe-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-2-0.dll',
+   'G:\\Programs\\ToGit\\bin\\api-ms-win-core-file-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l2-1-0.dll',
+   'G:\\Programs\\ToGit\\bin\\api-ms-win-core-file-l2-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-localization-l1-2-0.dll',
+   'G:\\Programs\\ToGit\\bin\\api-ms-win-core-localization-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-handle-l1-1-0.dll',
+   'G:\\Programs\\ToGit\\bin\\api-ms-win-core-handle-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'G:\\Programs\\ToGit\\bin\\api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processenvironment-l1-1-0.dll',
+   'G:\\Programs\\ToGit\\bin\\api-ms-win-core-processenvironment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-1.dll',
+   'G:\\Programs\\ToGit\\bin\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'BINARY'),
+  ('api-ms-win-core-console-l1-1-0.dll',
+   'G:\\Programs\\ToGit\\bin\\api-ms-win-core-console-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-memory-l1-1-0.dll',
+   'G:\\Programs\\ToGit\\bin\\api-ms-win-core-memory-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-sysinfo-l1-1-0.dll',
+   'G:\\Programs\\ToGit\\bin\\api-ms-win-core-sysinfo-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-interlocked-l1-1-0.dll',
+   'G:\\Programs\\ToGit\\bin\\api-ms-win-core-interlocked-l1-1-0.dll',
+   'BINARY'),
+  ('select.pyd',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('pyexpat.pyd',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_decimal.pyd',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_multiprocessing.pyd',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_ctypes.pyd',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_queue.pyd',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('yarl\\_quoting_c.cp39-win_amd64.pyd',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\yarl\\_quoting_c.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('multidict\\_multidict.cp39-win_amd64.pyd',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\multidict\\_multidict.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('_asyncio.pyd',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('aiohttp\\_http_writer.cp39-win_amd64.pyd',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aiohttp\\_http_writer.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('aiohttp\\_http_parser.cp39-win_amd64.pyd',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aiohttp\\_http_parser.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('frozenlist\\_frozenlist.cp39-win_amd64.pyd',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\frozenlist\\_frozenlist.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('aiohttp\\_helpers.cp39-win_amd64.pyd',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aiohttp\\_helpers.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('aiohttp\\_websocket.cp39-win_amd64.pyd',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\aiohttp\\_websocket.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('_uuid.pyd',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_uuid.pyd',
+   'EXTENSION'),
+  ('_overlapped.pyd',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('api-ms-win-crt-utility-l1-1-0.dll',
+   'G:\\Programs\\ToGit\\bin\\api-ms-win-crt-utility-l1-1-0.dll',
+   'BINARY'),
+  ('libcrypto-1_1.dll',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('libssl-1_1.dll',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('libffi-7.dll',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\libffi-7.dll',
+   'BINARY')],
+ [],
+ [],
+ [('base_library.zip',
+   'G:\\Programs\\Python\\Projects\\RUBot\\build\\main\\base_library.zip',
+   'DATA'),
+  ('certifi\\cacert.pem',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\certifi\\cacert.pem',
+   'DATA'),
+  ('certifi\\py.typed',
+   'C:\\Users\\Captain '
+   'G\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\certifi\\py.typed',
+   'DATA')],
+ [])
